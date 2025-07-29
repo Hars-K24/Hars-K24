@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Harshath S N, a passionate front-end developer and electronics enthusiast currently pursuing Electronics and Communication Engineering (ECE) at St. Joseph's Institute of Technology.<br><br>🚀 What I Do:<br><br>💻 Front-end development with React, JavaScript, and CSS<br>🎨 UI/UX design with a focus on user-friendly interfaces<br>📡 Working on IoT projects with ESP8266, GPS modules, and sensors<br>💡 Interests:<br><br>Web Development & Highcharts Visualization 📊<br>Embedded Systems & Wireless Sensor Networks 🌐<br>Open-Source Contributions 🚀
+👋 Hi, I'm Harshath S N, a passionate Embedded systems and electronics enthusiast recently completed my B.E in Electronics and Communication Engineering (ECE) at St. Joseph's Institute of Technology.🚀 What I Do:<br><br>💻 Front-end development with React, JavaScript, and CSS<br>🎨 UI/UX design with a focus on user-friendly interfaces<br>📡 Working on IoT projects with ESP8266, GPS modules, and sensors<br>💡 Interests:<br><br>Web Development & Highcharts Visualization 📊<br>Embedded Systems & Wireless Sensor Networks 🌐<br>Open-Source Contributions 🚀
 
 
 ## 🌐 Socials:
